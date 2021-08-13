@@ -11,6 +11,16 @@
         src="https://github-readme-stats.vercel.app/api?username=T-dubb"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
+<div id="main">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-dubb&layout=compact&langs_count=8"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
+
+## 🌱 I’m currently learning
+- React, Nodejs, MongoDB
+- System Programing
+- Machine Learning
 
 ## 👩🏻‍💻 Tech Stack 
 > Techs that I've used at least once
@@ -39,12 +49,12 @@
     </a>
     <a href="https://www.instagram.com/tae._.woah/">
         <img 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tae._.woah/"
+            src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
     <a href="https://www.instagram.com/tae._.woah/">
         <img 
-            src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tae._.woah/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
 </div>

@@ -47,7 +47,7 @@
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href="https://www.instagram.com/tae._.woah/">
+    <a href="https://spiced-hydrogen-0e0.notion.site/Taewoo-Kim-6ef702138ad64872bae9c08b42da78a0">
         <img 
             src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>

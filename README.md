@@ -20,7 +20,6 @@
 ## 🌱 I’m currently learning
 - React, Nodejs, MongoDB
 - System Programing
-- Machine Learning
 
 ## 👩🏻‍💻 Tech Stack 
 > Techs that I've used at least once

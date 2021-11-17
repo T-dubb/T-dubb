@@ -4,7 +4,7 @@
 
 - 👩🏻‍💼   Junior Web & App developer
 - 👩🏻‍🏫   Student on KAIST(School of Computing)
-- 💻    usually using C and Java language for programmming
+- 💻    usually using JavaScript, Python, and C language for programmming
 
 <div id="main">
     <img 
@@ -18,8 +18,9 @@
 </div>
 
 ## 🌱 I’m currently learning
-- React, Nodejs, MongoDB
-- System Programing
+- React, Android Studio
+- Nodejs
+- MongoDB, MySQL
 
 ## 👩🏻‍💻 Tech Stack 
 > Techs that I've used at least once

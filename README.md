@@ -18,7 +18,7 @@
 </div>
 
 ## 🌱 I’m currently learning
-- React, Android Studio
+- React, ReactNative
 - Nodejs
 - MongoDB, MySQL
 
